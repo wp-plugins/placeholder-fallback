@@ -4,7 +4,7 @@ Contributors: neilgee
 Donate link: http://coolestguidesontheplanet.com/
 Tags: placeholder, text, forms, input
 Requires at least: 3.8
-Tested up to: 4.0.0
+Tested up to: 4.1.0
 Stable tag: 4.3
 Plugin Name: Placeholder Fallback
 Plugin URI: http://coolestguidesontheplanet.com/
