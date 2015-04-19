@@ -1,17 +1,17 @@
 === Plugin Name ===
 
 Contributors: neilgee
-Donate link: http://coolestguidesontheplanet.com/
+Donate link: http://wpbeaches.com
 Tags: placeholder, text, forms, input
 Requires at least: 3.8
-Tested up to: 4.1.0
-Stable tag: 4.3
+Tested up to: 4.1.1
+Stable tag: 1.1.0
 Plugin Name: Placeholder Fallback
 Plugin URI: http://coolestguidesontheplanet.com/
 Description: Use placeholder text in forms for older browsers
 Author: Neil Gee
-Version: 1.0.0
-Author URI:http://coolestguidesontheplanet.com
+Version: 1.1.0
+Author URI:http://wpbeaches.com
 License:           GPL-2.0+
 License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -46,3 +46,5 @@ Just activate the plugin which loads the script, their is no further configurati
 == Changelog ==
 
 = 1.0.0 * Initial release.
+
+= 1.1.0 - 19th April 2015 - upgrade includes version v4.0.1 of placeholders
