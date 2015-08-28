@@ -4,7 +4,7 @@ Contributors: neilgee
 Donate link: http://wpbeaches.com
 Tags: placeholder, text, forms, input
 Requires at least: 3.8
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1.0
 Plugin Name: Placeholder Fallback
 Plugin URI: http://coolestguidesontheplanet.com/
